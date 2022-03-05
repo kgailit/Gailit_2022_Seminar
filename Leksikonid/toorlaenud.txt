@@ -1,0 +1,111 @@
+# Fraasidega nagu "last, but not least", "by the way", "why not", "note to (my)self"
+# Ebakindel
+('fancy', 36) #Suure algustähega nimi
+('actionit', 36) #Ka (vähem spontaansetes) arvustustes
+('horror', 31) #Vahel nimedes, enamasti žanri kohta
+('wrote', 31) #Foorumites, jututubades, kommentaariumites autori tähisena; kas on sobilik teksti liigitamisel kasutada?
+('mean', 30) #Suure algustähega nimi ja läbivalt suurelt lühend, muidu aga tunnuseline; potentsiaalselt ka tähenduses "keskmine"
+('outfit', 29) #Ka üksikutes reklaamitekstides
+('fake', 28) #Ka ühes nimes (suure algustähega)
+('epic', 28) #Suure algustähega aga nimed
+('chatis', 28) #Ka spontaansuselt neutraalsetes kontekstides, nagu Lasteabi lehel; ehk termin?
+('feeling', 28) #Suure algustähega aga nimedes
+('mainstream', 26) #Mõnes kontekstis aga pigem nagu termin?
+('highlight', 26) #Ka meigitermin
+('soundi', 25) #Suure algustähega aga nimede osa
+('onlines', 25) #Ülakoma puudu, kontekstid varieeruvad
+('adminni', 24) #Enamasti foorumites ja mujal aga ka ühes kasutusjuhendis korduvalt
+('distro', 20) #Enamasti Ubuntu/Linuxi foorumites kasutusel; potentsiaalselt termin (lühend Ubuntu distributsioonile)
+('roadtrip', 19) #Peamiselt (reisi)blogides, aga ka neutraalsetes kontekstides
+('soundtracki', 17) #Potentsiaalne termin
+('emoticon', 16) #Kuigi leksikoni sobilik, on tegu näiliselt hoopis korpuseks tegemisel tekkinud sõnega
+('remake', 15) #Filmitermin aga ainult (ebaformaalsetes) arvustustes
+('setting', 15) #Arvustustes ebaformaalne (ehk ka spontaanne), aga tähenduses "sätted" pigem neutraalne
+('levelile', 15) #Ka neutraalse spontaansusega tekstides (tootekirjeldus)
+('riverisse', 15) #Pokkeritermin, aga kasutusel vaid blogides
+('highlighter', 15) #Meigitermin? Aga kontekst ebaformaalne (blogid)
+('highlighterit', 10) #Meigitermin? Aga kontekst ebaformaalne (blogid)
+# MSN
+('msnis', 36) #Kontekst spontaanne (ja ebaformaalne), aga tegu on siiski keskkonna nimega
+('msni', 24)
+# Popcorn
+('popcorni', 30) #Valdavalt blogides, aga ka neutraalsemaid kontekste
+('popcorn', 23)
+# Edasi kindlad
+('cool', 131)
+('sex', 108) #Ehk aga märgiasendus
+('extra', 105)
+('wow', 100)
+('fun', 228)
+('chill', 165)
+('sorry', 148)
+('level', 135)
+('selfie', 80)
+('sexi', 77) #Ehk aga märgiasendus
+('fuck', 75)
+('shit', 74)
+('fucking', 63)
+('fact', 55) # Peamiselt fraasis "Fun Fact"
+('random', 55) #Vahel aga terminite osa (RAM)
+('chillisime', 53)
+('leveli', 48)
+('chillida', 47)
+('bitch', 46)
+('hi', 45)
+('outfiti', 41)
+('casual', 38)
+('chilli', 36)
+('crazy', 34)
+('softi', 33)
+('bullshit', 32)
+('yeah', 31)
+('youtubes', 30)
+('youtubest', 28) #Peaks olema 'ist
+('taske', 28)
+('levelit', 27)
+('copy-paste', 27)
+('win-win', 26)
+('awesome', 25)
+('tiptop', 23)
+('errori', 23)
+('task', 23)
+('pointless', 23)
+('also', 23)
+('busy', 21)
+('boyfriend', 21)
+('damn', 21)
+('worries', 21)
+('sexy', 20)
+('dude', 20)
+('whatever', 19)
+('nope', 19)
+('creepy', 19)
+('bookitud', 18)
+('backpacker', 18)
+('cooli', 18)
+('appe', 17)
+('offtopic', 17)
+('overkill', 16)
+('dont', 16) #Ka originaalkeeles vigane
+('chillima', 16)
+('levelil', 15)
+('bye', 15)
+('aussi', 15)
+('nimodi', 15)
+('errorit', 15)
+('skilli', 14)
+('hey', 14)
+('chillisin', 13)
+('chillimas', 13)
+('chillid', 13)
+('sexist', 12) #Ehk aga märgiasendus
+('excited', 12)
+('bling-bling', 11)
+('chillib', 11)
+('dejavu', 11) #Just selle kirjapildiga vigane
+('girlfriend', 11)
+('fucked', 10)
+('coolid', 10)
+('gameplay', 10)
+('sexida', 10) #Ehk aga märgiasendus
+('totally', 10)
